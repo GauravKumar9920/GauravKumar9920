@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GauravKumar9920
+- 👋 Hi, I’m Gaurav Kumar
 - 👀 I’m interested in Devloping new Technologies which aims at helping ppls in evryday life :) (do tell me how do you like them.)
-- 🌱 I’m currently learning ROS and it's functionalities.
-- 💞️ I’m looking to collaborate on various open sourse projets soon in my free time !
+- 🌱 I’m currently working on improvng my skills in IOT and it's functionalities.
+- 💞️ I’m looking to collaborate on various open source projets soon in my free time !
 - 📫 How to reach me (mailme @gaurav.og.9920@gmail.com)
 
 <!---
