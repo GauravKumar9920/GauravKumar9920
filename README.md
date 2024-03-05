@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaurav Kumar
 - 👀 I’m interested in developing new technologies which aim at helping people in everyday life :) (do tell me how you like them.)
-- 🌱 I’m improving my skills in IOT and its functionalities.
 - 💞️ I’m looking to collaborate on various open-source projects soon in my free time!
 - 📫 How to reach me (email me @gaurav.og.9920@gmail.com)
 
